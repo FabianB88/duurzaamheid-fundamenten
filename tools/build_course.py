@@ -114,6 +114,16 @@ for index, regel in enumerate(cursus.PAGINAS, start=1):
                  % (home, link)).update({'_classes': 'paginanav'})
     pagina.blokken[-1]['_classes'] = 'separator paginanav'
 
+    # Dezelfde weg terug, maar dan bovenaan. Onderaan alleen is te weinig: je
+    # moet dan eerst een heel hoofdstuk doorscrollen om bij het overzicht te
+    # komen. Het blok wordt achteraan gebouwd en daarna vooraan gezet.
+    pagina.tekst('', '<a class="terugnaar" href="#/">'
+                     '<span class="terugnaar__pijl" aria-hidden="true">&#8592;</span>'
+                     'Overzicht</a>').update({'_classes': 'terugnaar-blok'})
+    pagina.blokken[-1]['_classes'] = 'terugnaar-blok'
+    pagina.blokken.insert(0, pagina.blokken.pop())
+    pagina.componenten.insert(0, pagina.componenten.pop())
+
     blocks.extend(pagina.blokken)
     components.extend(pagina.componenten)
 

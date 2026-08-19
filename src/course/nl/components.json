@@ -1,6 +1,18 @@
 [
   {
     "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-113",
+    "_parentId": "b-113",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
     "_classes": "",
     "_layout": "full",
     "title": "Waar deze cursus over gaat",
@@ -207,6 +219,18 @@
   },
   {
     "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-211",
+    "_parentId": "b-211",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
     "_classes": "",
     "_layout": "full",
     "title": "Duurzaamheid als een huis",
@@ -408,6 +432,18 @@
   },
   {
     "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-310",
+    "_parentId": "b-310",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
     "_classes": "",
     "_layout": "full",
     "title": "Eén systeem, vier sferen",
@@ -578,6 +614,18 @@
     "instruction": "",
     "_id": "c-309",
     "_parentId": "b-309",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-413",
+    "_parentId": "b-413",
     "_type": "component"
   },
   {
@@ -788,6 +836,18 @@
   },
   {
     "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-512",
+    "_parentId": "b-512",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
     "_classes": "",
     "_layout": "full",
     "title": "Nemen, maken, weggooien",
@@ -963,6 +1023,18 @@
     "instruction": "",
     "_id": "c-511",
     "_parentId": "b-511",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-612",
+    "_parentId": "b-612",
     "_type": "component"
   },
   {
@@ -1254,6 +1326,18 @@
   },
   {
     "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-712",
+    "_parentId": "b-712",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
     "_classes": "",
     "_layout": "full",
     "title": "Eerst de natuurkunde, dan de discussie",
@@ -1440,6 +1524,18 @@
     "instruction": "",
     "_id": "c-711",
     "_parentId": "b-711",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-812",
+    "_parentId": "b-812",
     "_type": "component"
   },
   {
@@ -1653,6 +1749,18 @@
     "instruction": "",
     "_id": "c-811",
     "_parentId": "b-811",
+    "_type": "component"
+  },
+  {
+    "_component": "text",
+    "_classes": "terugnaar-blok",
+    "_layout": "full",
+    "title": "Tekst",
+    "displayTitle": "",
+    "body": "<a class=\"terugnaar\" href=\"#/\"><span class=\"terugnaar__pijl\" aria-hidden=\"true\">&#8592;</span>Overzicht</a>",
+    "instruction": "",
+    "_id": "c-914",
+    "_parentId": "b-914",
     "_type": "component"
   },
   {
