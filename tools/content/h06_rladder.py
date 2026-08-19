@@ -89,9 +89,14 @@ def bouw(p):
                      'model beloont dat een product snel wordt vervangen, verdient de '
                      'aanbieder hier juist aan lang meegaan en makkelijk '
                      'repareren.</p>'
-                     '<p><b>Voorbeeld:</b> MUD Jeans, waarbij je een spijkerbroek '
-                     'least en na gebruik terugstuurt, waarna de stof wordt '
-                     'gerecycled tot nieuw textiel.</p>'},
+                     '<p><b>Voorbeeld:</b> Signify (het vroegere Philips Lighting) '
+                     'verkoopt licht in plaats van lampen: de klant betaalt voor '
+                     'verlichting, Signify blijft eigenaar van de armaturen en '
+                     'haalt ze aan het eind terug. Hoe langer een armatuur '
+                     'meegaat, hoe beter dat uitkomt voor de leverancier — precies '
+                     'andersom dan bij verkoop per stuk.</p>'
+                     '<p>Let op: het model is geen garantie. Zie de textielcasus '
+                     'hieronder.</p>'},
             {'title': 'Deelplatforms',
              'body': '<p>Producten gezamenlijk gebruiken in plaats van individueel '
                      'bezitten. Hetzelfde aantal mensen bediend met minder spullen — '
@@ -117,12 +122,19 @@ def bouw(p):
         'verwerking lastig — een katoen-polyestermix is nauwelijks te scheiden.</p>'
         '<p>Tegelijk gebeurt er van alles. <b>Loop.a life</b> maakt nieuwe truien van '
         'oude kleding, zonder water en zonder verfstoffen, en produceert lokaal om '
-        'transport te beperken. <b>MUD Jeans</b> least spijkerbroeken en neemt ze '
-        'terug. Allebei laten ze zien dat het kan — en allebei zijn ze klein ten '
-        'opzichte van de stroom die er doorheen gaat.</p>'
-        '<p>De les daaruit is niet dat de voorbeelden tekortschieten, maar dat een '
-        'sector niet kantelt door goede voorbeelden alleen. Daarover gaat het volgende '
-        'deel van de cursus.</p>')
+        'transport te beperken.</p>'
+        '<p>En dan is er <b>MUD Jeans</b>, jarenlang hét Nederlandse voorbeeld '
+        'van Product-as-a-Service: je leasede een spijkerbroek en stuurde hem na '
+        'gebruik terug. Het merk stopte met dat leasemodel omdat het op schaal niet '
+        'rendabel bleek, ging verder met repareren, doorverkopen en recyclen, en '
+        'werd op 5 augustus 2026 failliet verklaard. Een doorstart is niet '
+        'uitgesloten.</p>'
+        '<p>Dat is geen voetnoot maar de kern van dit hoofdstuk. Een hoge trede op '
+        'de R-ladder is ecologisch gezien beter, maar alleen als het verdienmodel '
+        'eronder standhoudt. En een sector kantelt niet van goede voorbeelden '
+        'alleen — zolang de omgeving fast fashion blijft belonen, blijft de '
+        'koploper klein en kwetsbaar. Daarover gaat het volgende deel van de '
+        'cursus.</p>')
 
     p.tekst(
         'Stappenplan: kies een R-strategie die je echt kunt uitvoeren',

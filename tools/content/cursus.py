@@ -34,7 +34,7 @@ PAGINAS = [
      'Vier sferen die in elkaar overlopen, en waarom een maatregel altijd ergens '
      'anders naar boven komt.', '15 min'),
     ('h04_planetaire_grenzen', 'Planetaire grenzen',
-     'Negen grenzen, zes overschreden, en wat de stikstofcrisis laat zien over '
+     'Negen grenzen, zeven overschreden, en wat de stikstofcrisis laat zien over '
      'hoe dat doorwerkt.', '20 min'),
     ('h05_lineair_circulair', 'Van lineair naar circulair',
      'Waarom nemen-maken-weggooien vastloopt, en waarom circulair niet '

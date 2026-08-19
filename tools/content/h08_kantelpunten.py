@@ -72,9 +72,12 @@ def bouw(p):
 
     p.tekst(
         'De energietransitie hier: van succes naar knelpunt',
-        '<p>Nederland is de afgelopen jaren hard gegaan met zon en wind. Grote '
-        'windparken op zee, zonnepanelen op daken, steenkool eruit. Op papier precies '
-        'wat er moest gebeuren.</p>'
+        '<p>Nederland is de afgelopen jaren hard gegaan met zon en wind: grote '
+        'windparken op zee, zonnepanelen op vrijwel elk dak dat het aankan. Op '
+        'papier precies wat er moest gebeuren. Kolen zijn er trouwens nog niet uit '
+        '— vier centrales draaien nog, en pas vanaf 2030 mag er geen kolen meer '
+        'verstookt worden voor elektriciteit. Bij hoge gasprijzen draaien ze zelfs '
+        'harder, wat op zichzelf al een lock-in laat zien.</p>'
         '<p>En juist dat succes veroorzaakt het volgende probleem. Het '
         'elektriciteitsnet is ontworpen voor een wereld waarin stroom van een paar '
         'grote centrales naar veel afnemers gaat. Nu wordt er overal opgewekt én '

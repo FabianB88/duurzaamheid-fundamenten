@@ -15,20 +15,26 @@ def bouw(p):
         'ontstaan. Ga je eroverheen, dan neem je risico op veranderingen die je niet '
         'meer terugdraait.</p>'
         '<p>Het is geen doemverhaal maar een <b>meetlat</b>. En dat maakt het bruikbaar: '
-        'je kunt er beleid, ontwerpen en projecten langs leggen.</p>')
+        'je kunt er beleid, ontwerpen en projecten langs leggen.</p>'
+        '<p>De meetlat wordt jaarlijks bijgewerkt in de <i>Planetary Health Check</i>. '
+        'In 2023 stonden er zes grenzen op overschreden; in september 2025 kwam '
+        '<b>verzuring van de oceanen</b> erbij als zevende. Alleen de ozonlaag en '
+        'luchtvervuiling door aerosolen zitten nog binnen hun grens. Kijk dus bij '
+        'elk cijfer dat je tegenkomt uit welk jaar het komt — ook dit.</p>')
 
     p.beeld(
         'planetaire-grenzen.svg',
         alt='Een cirkeldiagram met negen taartpunten, elk een planetaire grens. De '
-            'binnenring is de veilige ruimte. Zes punten steken buiten de ring uit en '
-            'zijn donker gemarkeerd als overschreden: klimaatverandering, '
+            'binnenring is de veilige ruimte. Zeven punten steken buiten de ring uit '
+            'en zijn donker gemarkeerd als overschreden: klimaatverandering, '
             'biodiversiteitsverlies, verandering in landgebruik, zoetwatergebruik, '
-            'verstoring van de stikstof- en fosforkringloop, en chemische '
-            'verontreiniging. Drie punten blijven binnen de ring: verzuring van de '
-            'oceanen, aantasting van de ozonlaag en luchtvervuiling door '
+            'verstoring van de stikstof- en fosforkringloop, chemische '
+            'verontreiniging en verzuring van de oceanen. Twee punten blijven '
+            'binnen de ring: aantasting van de ozonlaag en luchtvervuiling door '
             'aerosolen.',
-        onderschrift='Zes van de negen grenzen zijn inmiddels overschreden. De '
-                     'ozonlaag laat zien dat terugkeren binnen de grens kan.')
+        onderschrift='Stand van de Planetary Health Check 2025: zeven van de negen '
+                     'grenzen zijn overschreden. De ozonlaag laat zien dat '
+                     'terugkeren binnen de grens kan.')
 
     p.tekst(
         'De negen grenzen',
@@ -55,7 +61,7 @@ def bouw(p):
 
     p.accordeon(
         'Wat er gebeurt bij overschrijding',
-        '<p>Drie grenzen waar we ruim overheen zijn, en wat dat concreet '
+        '<p>Drie van de zeven overschreden grenzen, en wat dat concreet '
         'betekent.</p>',
         [
             {'title': 'Klimaatverandering',

@@ -21,9 +21,9 @@ def bouw(p):
         alt='Twee schema’s naast elkaar. Links het lineaire model als een rechte lijn '
             'van grondstof winnen, produceren, gebruiken naar afval, met bij elke stap '
             'verlies van waarde en een afvalberg aan het eind. Rechts het circulaire '
-            'model als een gesloten kring van ontwerpen, produceren, gebruiken, '
-            'onderhouden en terugnemen, waarbij materialen steeds opnieuw de kring in '
-            'gaan en alleen een kleine reststroom overblijft.',
+            'model als een gesloten kring van ontwerpen, gebruiken, terugnemen en '
+            'herstellen, waarbij materialen steeds opnieuw de kring in gaan en '
+            'alleen een kleine reststroom overblijft.',
         onderschrift='Links verdwijnt waarde bij elke stap; rechts blijft hij in de '
                      'kring.')
 

@@ -71,7 +71,8 @@ def bouw(p):
         'Waarom dit meer is dan aardrijkskunde',
         '<p>Zodra je een maatregel beoordeelt, is de vraag: <b>in welke sfeer grijp ik '
         'in, en waar komt het eruit?</b> Een luchtwasser in een stal verplaatst '
-        'stikstof van de atmosfeer naar het water. Biobrandstof verplaatst uitstoot '
+        'stikstof: de ammoniak komt niet in de lucht terecht, maar in het spuiwater '
+        'dat erbij ontstaat. Biobrandstof verplaatst uitstoot '
         'van de atmosfeer naar landgebruik in de lithosfeer en biosfeer.</p>'
         '<p>Dat is geen argument om niets te doen. Het is een argument om te weten '
         'waar je het naartoe schuift, zodat je het bewust doet in plaats van per '

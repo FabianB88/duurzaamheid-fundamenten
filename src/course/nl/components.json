@@ -296,7 +296,7 @@
       },
       {
         "title": "Steden",
-        "body": "<p>Steden zijn economische motoren én kampen met luchtvervuiling, files, woningtekort en ongelijkheid. Groene infrastructuur en openbaar vervoer helpen, maar alleen als gemeenschappen bij de besluitvorming worden betrokken. Anders verbeter je de stad voor sommigen en verdringt je anderen.</p>"
+        "body": "<p>Steden zijn economische motoren én kampen met luchtvervuiling, files, woningtekort en ongelijkheid. Groene infrastructuur en openbaar vervoer helpen, maar alleen als gemeenschappen bij de besluitvorming worden betrokken. Anders verbeter je de stad voor sommigen en verdring je anderen.</p>"
       },
       {
         "title": "Energie",
@@ -382,7 +382,7 @@
     ],
     "_feedback": {
       "title": "Even checken",
-      "correct": "<p>Klopt. De drie zijn alle drie nodig, maar ze zijn niet uitwisselbaar: economie en samenleving spelen zich áf binnen wat de aarde aankan, niet ernaast. Dat is precies waarom planetaire grenzen — het volgende deel — zo belangrijk zijn.</p>",
+      "correct": "<p>Klopt. De drie zijn alle drie nodig, maar ze zijn niet uitwisselbaar: economie en samenleving spelen zich áf binnen wat de aarde aankan, niet ernaast. Dat is precies waarom planetaire grenzen — hoofdstuk 4 — zo belangrijk zijn.</p>",
       "_incorrect": {
         "final": "<p>Nog niet. Geld en mensen zijn onmisbaar, maar ze rusten allebei op iets: een leefbare aarde. Val het fundament weg, dan houdt de rest ook op — andersom niet.</p>"
       },
@@ -475,7 +475,7 @@
     "_layout": "full",
     "title": "Waarom dit meer is dan aardrijkskunde",
     "displayTitle": "Waarom dit meer is dan aardrijkskunde",
-    "body": "<p>Zodra je een maatregel beoordeelt, is de vraag: <b>in welke sfeer grijp ik in, en waar komt het eruit?</b> Een luchtwasser in een stal verplaatst stikstof van de atmosfeer naar het water. Biobrandstof verplaatst uitstoot van de atmosfeer naar landgebruik in de lithosfeer en biosfeer.</p><p>Dat is geen argument om niets te doen. Het is een argument om te weten waar je het naartoe schuift, zodat je het bewust doet in plaats van per ongeluk.</p>",
+    "body": "<p>Zodra je een maatregel beoordeelt, is de vraag: <b>in welke sfeer grijp ik in, en waar komt het eruit?</b> Een luchtwasser in een stal verplaatst stikstof: de ammoniak komt niet in de lucht terecht, maar in het spuiwater dat erbij ontstaat. Biobrandstof verplaatst uitstoot van de atmosfeer naar landgebruik in de lithosfeer en biosfeer.</p><p>Dat is geen argument om niets te doen. Het is een argument om te weten waar je het naartoe schuift, zodat je het bewust doet in plaats van per ongeluk.</p>",
     "instruction": "",
     "_id": "c-304",
     "_parentId": "b-304",
@@ -586,7 +586,7 @@
     "_layout": "full",
     "title": "De veilige ruimte om in te opereren",
     "displayTitle": "De veilige ruimte om in te opereren",
-    "body": "<p>Een team wetenschappers onder leiding van Johan Rockström en Will Steffen stelde in 2009 een vraag die daarvoor nauwelijks zo scherp gesteld was: <i>hoeveel kan de aarde hebben voordat het misgaat?</i></p><p>Hun antwoord is het raamwerk van de <b>planetaire grenzen</b>: negen processen die het aardsysteem stabiel houden, elk met een grens waarbinnen de mensheid veilig kan opereren. Blijf je erbinnen, dan blijft het systeem in de toestand waarin onze landbouw, steden en samenlevingen zijn ontstaan. Ga je eroverheen, dan neem je risico op veranderingen die je niet meer terugdraait.</p><p>Het is geen doemverhaal maar een <b>meetlat</b>. En dat maakt het bruikbaar: je kunt er beleid, ontwerpen en projecten langs leggen.</p>",
+    "body": "<p>Een team wetenschappers onder leiding van Johan Rockström en Will Steffen stelde in 2009 een vraag die daarvoor nauwelijks zo scherp gesteld was: <i>hoeveel kan de aarde hebben voordat het misgaat?</i></p><p>Hun antwoord is het raamwerk van de <b>planetaire grenzen</b>: negen processen die het aardsysteem stabiel houden, elk met een grens waarbinnen de mensheid veilig kan opereren. Blijf je erbinnen, dan blijft het systeem in de toestand waarin onze landbouw, steden en samenlevingen zijn ontstaan. Ga je eroverheen, dan neem je risico op veranderingen die je niet meer terugdraait.</p><p>Het is geen doemverhaal maar een <b>meetlat</b>. En dat maakt het bruikbaar: je kunt er beleid, ontwerpen en projecten langs leggen.</p><p>De meetlat wordt jaarlijks bijgewerkt in de <i>Planetary Health Check</i>. In 2023 stonden er zes grenzen op overschreden; in september 2025 kwam <b>verzuring van de oceanen</b> erbij als zevende. Alleen de ozonlaag en luchtvervuiling door aerosolen zitten nog binnen hun grens. Kijk dus bij elk cijfer dat je tegenkomt uit welk jaar het komt — ook dit.</p>",
     "instruction": "",
     "_id": "c-401",
     "_parentId": "b-401",
@@ -603,8 +603,8 @@
     "_graphic": {
       "large": "course/nl/images/planetaire-grenzen.svg",
       "small": "course/nl/images/planetaire-grenzen.svg",
-      "alt": "Een cirkeldiagram met negen taartpunten, elk een planetaire grens. De binnenring is de veilige ruimte. Zes punten steken buiten de ring uit en zijn donker gemarkeerd als overschreden: klimaatverandering, biodiversiteitsverlies, verandering in landgebruik, zoetwatergebruik, verstoring van de stikstof- en fosforkringloop, en chemische verontreiniging. Drie punten blijven binnen de ring: verzuring van de oceanen, aantasting van de ozonlaag en luchtvervuiling door aerosolen.",
-      "attribution": "Zes van de negen grenzen zijn inmiddels overschreden. De ozonlaag laat zien dat terugkeren binnen de grens kan.",
+      "alt": "Een cirkeldiagram met negen taartpunten, elk een planetaire grens. De binnenring is de veilige ruimte. Zeven punten steken buiten de ring uit en zijn donker gemarkeerd als overschreden: klimaatverandering, biodiversiteitsverlies, verandering in landgebruik, zoetwatergebruik, verstoring van de stikstof- en fosforkringloop, chemische verontreiniging en verzuring van de oceanen. Twee punten blijven binnen de ring: aantasting van de ozonlaag en luchtvervuiling door aerosolen.",
+      "attribution": "Stand van de Planetary Health Check 2025: zeven van de negen grenzen zijn overschreden. De ozonlaag laat zien dat terugkeren binnen de grens kan.",
       "_url": "",
       "_target": ""
     },
@@ -642,7 +642,7 @@
     "_layout": "full",
     "title": "Wat er gebeurt bij overschrijding",
     "displayTitle": "Wat er gebeurt bij overschrijding",
-    "body": "<p>Drie grenzen waar we ruim overheen zijn, en wat dat concreet betekent.</p>",
+    "body": "<p>Drie van de zeven overschreden grenzen, en wat dat concreet betekent.</p>",
     "instruction": "Klik op een kop om die open te klappen.",
     "_shouldCollapseItems": false,
     "_items": [
@@ -809,7 +809,7 @@
     "_graphic": {
       "large": "course/nl/images/lineair-circulair.svg",
       "small": "course/nl/images/lineair-circulair.svg",
-      "alt": "Twee schema’s naast elkaar. Links het lineaire model als een rechte lijn van grondstof winnen, produceren, gebruiken naar afval, met bij elke stap verlies van waarde en een afvalberg aan het eind. Rechts het circulaire model als een gesloten kring van ontwerpen, produceren, gebruiken, onderhouden en terugnemen, waarbij materialen steeds opnieuw de kring in gaan en alleen een kleine reststroom overblijft.",
+      "alt": "Twee schema’s naast elkaar. Links het lineaire model als een rechte lijn van grondstof winnen, produceren, gebruiken naar afval, met bij elke stap verlies van waarde en een afvalberg aan het eind. Rechts het circulaire model als een gesloten kring van ontwerpen, gebruiken, terugnemen en herstellen, waarbij materialen steeds opnieuw de kring in gaan en alleen een kleine reststroom overblijft.",
       "attribution": "Links verdwijnt waarde bij elke stap; rechts blijft hij in de kring.",
       "_url": "",
       "_target": ""
@@ -1060,7 +1060,7 @@
     "_items": [
       {
         "title": "Product-as-a-Service",
-        "body": "<p>De producent blijft eigenaar; de klant betaalt voor het gebruik. Daarmee draaien de prikkels om: waar het klassieke model beloont dat een product snel wordt vervangen, verdient de aanbieder hier juist aan lang meegaan en makkelijk repareren.</p><p><b>Voorbeeld:</b> MUD Jeans, waarbij je een spijkerbroek least en na gebruik terugstuurt, waarna de stof wordt gerecycled tot nieuw textiel.</p>"
+        "body": "<p>De producent blijft eigenaar; de klant betaalt voor het gebruik. Daarmee draaien de prikkels om: waar het klassieke model beloont dat een product snel wordt vervangen, verdient de aanbieder hier juist aan lang meegaan en makkelijk repareren.</p><p><b>Voorbeeld:</b> Signify (het vroegere Philips Lighting) verkoopt licht in plaats van lampen: de klant betaalt voor verlichting, Signify blijft eigenaar van de armaturen en haalt ze aan het eind terug. Hoe langer een armatuur meegaat, hoe beter dat uitkomt voor de leverancier — precies andersom dan bij verkoop per stuk.</p><p>Let op: het model is geen garantie. Zie de textielcasus hieronder.</p>"
       },
       {
         "title": "Deelplatforms",
@@ -1081,7 +1081,7 @@
     "_layout": "full",
     "title": "Casus: textiel in Nederland",
     "displayTitle": "Casus: textiel in Nederland",
-    "body": "<p>Textiel laat de hele ladder in één sector zien. Nederland produceert jaarlijks grote hoeveelheden textielafval, terwijl er relatief weinig van wordt gerecycled. Fast fashion, korte levensduur en mengweefsels maken verwerking lastig — een katoen-polyestermix is nauwelijks te scheiden.</p><p>Tegelijk gebeurt er van alles. <b>Loop.a life</b> maakt nieuwe truien van oude kleding, zonder water en zonder verfstoffen, en produceert lokaal om transport te beperken. <b>MUD Jeans</b> least spijkerbroeken en neemt ze terug. Allebei laten ze zien dat het kan — en allebei zijn ze klein ten opzichte van de stroom die er doorheen gaat.</p><p>De les daaruit is niet dat de voorbeelden tekortschieten, maar dat een sector niet kantelt door goede voorbeelden alleen. Daarover gaat het volgende deel van de cursus.</p>",
+    "body": "<p>Textiel laat de hele ladder in één sector zien. Nederland produceert jaarlijks grote hoeveelheden textielafval, terwijl er relatief weinig van wordt gerecycled. Fast fashion, korte levensduur en mengweefsels maken verwerking lastig — een katoen-polyestermix is nauwelijks te scheiden.</p><p>Tegelijk gebeurt er van alles. <b>Loop.a life</b> maakt nieuwe truien van oude kleding, zonder water en zonder verfstoffen, en produceert lokaal om transport te beperken.</p><p>En dan is er <b>MUD Jeans</b>, jarenlang hét Nederlandse voorbeeld van Product-as-a-Service: je leasede een spijkerbroek en stuurde hem na gebruik terug. Het merk stopte met dat leasemodel omdat het op schaal niet rendabel bleek, ging verder met repareren, doorverkopen en recyclen, en werd op 5 augustus 2026 failliet verklaard. Een doorstart is niet uitgesloten.</p><p>Dat is geen voetnoot maar de kern van dit hoofdstuk. Een hoge trede op de R-ladder is ecologisch gezien beter, maar alleen als het verdienmodel eronder standhoudt. En een sector kantelt niet van goede voorbeelden alleen — zolang de omgeving fast fashion blijft belonen, blijft de koploper klein en kwetsbaar. Daarover gaat het volgende deel van de cursus.</p>",
     "instruction": "",
     "_id": "c-606",
     "_parentId": "b-606",
@@ -1294,7 +1294,7 @@
     "_layout": "full",
     "title": "Waar komt de uitstoot vandaan?",
     "displayTitle": "Waar komt de uitstoot vandaan?",
-    "body": "<p>Niet elke sector draagt evenveel bij. Maar let op: <b>de indeling in sectoren is deels een keuze</b>, geen natuurgegeven. Valt de uitstoot van een product bij de fabrikant of bij de consument? Reken je de stroom voor een fabriek toe aan \"energie\" of aan \"industrie\"? Er bestaan overzichten waarin ruim 85 procent onder \"energie\" valt, en andere waarin diezelfde uitstoot over vier sectoren is verdeeld.</p><p>Dat is precies de systeemgrens uit hoofdstuk 1, nu toegepast op statistiek. Vraag bij elk overzicht: <i>wie heeft deze indeling gemaakt, en wat valt er onder welke noemer?</i></p>",
+    "body": "<p>Niet elke sector draagt evenveel bij. Maar let op: <b>de indeling in sectoren is deels een keuze</b>, geen natuurgegeven. Valt de uitstoot van een product bij de fabrikant of bij de consument? Reken je de stroom voor een fabriek toe aan \"energie\" of aan \"industrie\"? Our World in Data zet ongeveer driekwart van alle broeikasgasuitstoot onder één noemer, \"energiegebruik\" — inclusief transport en gebouwen. Andere overzichten verdelen precies diezelfde uitstoot over vier of vijf sectoren, waardoor energie ineens een stuk kleiner lijkt.</p><p>Dat is precies de systeemgrens uit hoofdstuk 1, nu toegepast op statistiek. Vraag bij elk overzicht: <i>wie heeft deze indeling gemaakt, en wat valt er onder welke noemer?</i></p>",
     "instruction": "",
     "_id": "c-704",
     "_parentId": "b-704",
@@ -1519,7 +1519,7 @@
     "_layout": "full",
     "title": "De energietransitie hier: van succes naar knelpunt",
     "displayTitle": "De energietransitie hier: van succes naar knelpunt",
-    "body": "<p>Nederland is de afgelopen jaren hard gegaan met zon en wind. Grote windparken op zee, zonnepanelen op daken, steenkool eruit. Op papier precies wat er moest gebeuren.</p><p>En juist dat succes veroorzaakt het volgende probleem. Het elektriciteitsnet is ontworpen voor een wereld waarin stroom van een paar grote centrales naar veel afnemers gaat. Nu wordt er overal opgewekt én overal meer afgenomen, door warmtepompen, elektrisch vervoer en elektrificerende industrie. Het net zit vol.</p><p>Dat heet <b>netcongestie</b>, en het is inmiddels de belangrijkste rem op de transitie. Bedrijven wachten jaren op een aansluiting. Woonwijken lopen vertraging op. Verduurzamingsprojecten kunnen niet door omdat er geen capaciteit is — met als wrange uitkomst dat een duurzaam project soms strandt op de duurzame ambities van iedereen samen.</p>",
+    "body": "<p>Nederland is de afgelopen jaren hard gegaan met zon en wind: grote windparken op zee, zonnepanelen op vrijwel elk dak dat het aankan. Op papier precies wat er moest gebeuren. Kolen zijn er trouwens nog niet uit — vier centrales draaien nog, en pas vanaf 2030 mag er geen kolen meer verstookt worden voor elektriciteit. Bij hoge gasprijzen draaien ze zelfs harder, wat op zichzelf al een lock-in laat zien.</p><p>En juist dat succes veroorzaakt het volgende probleem. Het elektriciteitsnet is ontworpen voor een wereld waarin stroom van een paar grote centrales naar veel afnemers gaat. Nu wordt er overal opgewekt én overal meer afgenomen, door warmtepompen, elektrisch vervoer en elektrificerende industrie. Het net zit vol.</p><p>Dat heet <b>netcongestie</b>, en het is inmiddels de belangrijkste rem op de transitie. Bedrijven wachten jaren op een aansluiting. Woonwijken lopen vertraging op. Verduurzamingsprojecten kunnen niet door omdat er geen capaciteit is — met als wrange uitkomst dat een duurzaam project soms strandt op de duurzame ambities van iedereen samen.</p>",
     "instruction": "",
     "_id": "c-805",
     "_parentId": "b-805",

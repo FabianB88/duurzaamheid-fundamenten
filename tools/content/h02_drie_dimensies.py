@@ -91,7 +91,7 @@ def bouw(p):
                      'files, woningtekort en ongelijkheid. Groene infrastructuur en '
                      'openbaar vervoer helpen, maar alleen als gemeenschappen bij de '
                      'besluitvorming worden betrokken. Anders verbeter je de stad voor '
-                     'sommigen en verdringt je anderen.</p>'},
+                     'sommigen en verdring je anderen.</p>'},
             {'title': 'Energie',
              'body': '<p>De vraag groeit, de fossiele voorraad krimpt. Zon, wind en '
                      'opslag bieden een alternatief, en de transitie levert nieuwe '
@@ -157,7 +157,7 @@ def bouw(p):
             'correct': '<p>Klopt. De drie zijn alle drie nodig, maar ze zijn niet '
                        'uitwisselbaar: economie en samenleving spelen zich áf binnen '
                        'wat de aarde aankan, niet ernaast. Dat is precies waarom '
-                       'planetaire grenzen — het volgende deel — zo belangrijk '
+                       'planetaire grenzen — hoofdstuk 4 — zo belangrijk '
                        'zijn.</p>',
             '_incorrect': {'final': '<p>Nog niet. Geld en mensen zijn onmisbaar, maar '
                                     'ze rusten allebei op iets: een leefbare aarde. Val '
