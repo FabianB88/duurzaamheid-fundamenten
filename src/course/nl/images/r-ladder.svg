@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 440" role="img" aria-label="De R-ladder met zes treden van waardebehoud">
+  <style>
+    .t { font-family: Inter, Lato, Helvetica, Arial, sans-serif; }
+    .hd  { font-size: 17px; font-weight: 700; fill: #3D5C3B; }
+    .r   { font-size: 15px; font-weight: 700; fill: #1C1713; }
+    .rw  { font-size: 15px; font-weight: 700; fill: #FFFFFF; }
+    .sub { font-size: 12.5px; fill: #57504A; }
+    .subw{ font-size: 12.5px; fill: #EFF4EE; }
+    .cap { font-size: 12.5px; fill: #57504A; font-style: italic; }
+    .as  { font-size: 12.5px; font-weight: 700; fill: #3D5C3B; }
+  </style>
+  <defs>
+    <marker id="rp" markerWidth="9" markerHeight="9" refX="7" refY="3.5" orient="auto">
+      <polygon points="0 0, 8 3.5, 0 7" fill="#3D5C3B"/>
+    </marker>
+  </defs>
+  <rect width="700" height="440" fill="#F7F4F0"/>
+
+  <text class="t hd" x="20" y="30">De R-ladder</text>
+  <line x1="20" y1="42" x2="680" y2="42" stroke="#E4DDD6" stroke-width="1"/>
+
+  <!-- as links -->
+  <line x1="46" y1="70" x2="46" y2="386" stroke="#3D5C3B" stroke-width="2" marker-end="url(#rp)"/>
+  <text class="t as" x="30" y="200" transform="rotate(-90 30 200)" text-anchor="middle">minder waardebehoud</text>
+
+  <!-- treden, van hoog naar laag -->
+  <rect x="70" y="62" width="560" height="50" rx="5" fill="#3D5C3B"/>
+  <text class="t rw"  x="90" y="83">Refuse &#8212; weigeren</text>
+  <text class="t subw" x="90" y="102">Het product of de verpakking helemaal niet gebruiken. Voorkomt afval bij de bron.</text>
+
+  <rect x="70" y="118" width="530" height="50" rx="5" fill="#47613F"/>
+  <text class="t rw"  x="90" y="139">Reduce &#8212; verminderen</text>
+  <text class="t subw" x="90" y="158">Minder grondstof en minder afval per eenheid product.</text>
+
+  <rect x="70" y="174" width="500" height="50" rx="5" fill="#5C7A5A"/>
+  <text class="t rw"  x="90" y="195">Reuse &#8212; hergebruiken</text>
+  <text class="t subw" x="90" y="214">Opnieuw inzetten in dezelfde functie, zonder bewerking.</text>
+
+  <rect x="70" y="230" width="470" height="50" rx="5" fill="#8FAA8C"/>
+  <text class="t r"   x="90" y="251">Repair &#8212; repareren</text>
+  <text class="t sub" x="90" y="270">Herstellen in plaats van vervangen. Vraagt om demonteerbaar ontwerp.</text>
+
+  <rect x="70" y="286" width="440" height="50" rx="5" fill="#D0E3CF"/>
+  <text class="t r"   x="90" y="307">Recycle &#8212; recyclen</text>
+  <text class="t sub" x="90" y="326">Tot nieuwe grondstof verwerken. Kost energie en levert kwaliteitsverlies op.</text>
+
+  <rect x="70" y="342" width="410" height="46" rx="5" fill="#F3EFE8" stroke="#B0A49A" stroke-width="1.5"/>
+  <text class="t r"   x="90" y="363">Recover &#8212; terugwinnen</text>
+  <text class="t sub" x="90" y="380">Energie uit verbranding. Het materiaal zelf is weg.</text>
+
+  <text class="t cap" x="20" y="420">Bijna iedereen begint onderaan omdat dat zichtbaar en pijnloos is. De winst zit erboven.</text>
+</svg>

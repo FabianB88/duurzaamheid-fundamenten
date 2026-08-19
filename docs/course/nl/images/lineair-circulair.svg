@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 420" role="img" aria-label="Het lineaire model naast het circulaire model">
+  <style>
+    .t { font-family: Inter, Lato, Helvetica, Arial, sans-serif; }
+    .hd  { font-size: 17px; font-weight: 700; fill: #3D5C3B; }
+    .kop { font-size: 15px; font-weight: 700; fill: #1C1713; }
+    .stp { font-size: 12.5px; font-weight: 700; fill: #1C1713; }
+    .sub { font-size: 12.5px; fill: #57504A; }
+    .cap { font-size: 12.5px; fill: #57504A; font-style: italic; }
+  </style>
+  <defs>
+    <marker id="pl" markerWidth="9" markerHeight="9" refX="7" refY="3.5" orient="auto">
+      <polygon points="0 0, 8 3.5, 0 7" fill="#7A6E66"/>
+    </marker>
+    <marker id="pg" markerWidth="9" markerHeight="9" refX="7" refY="3.5" orient="auto">
+      <polygon points="0 0, 8 3.5, 0 7" fill="#3D5C3B"/>
+    </marker>
+  </defs>
+  <rect width="700" height="420" fill="#F7F4F0"/>
+
+  <text class="t hd" x="20" y="30">Twee richtingen</text>
+  <line x1="20" y1="42" x2="680" y2="42" stroke="#E4DDD6" stroke-width="1"/>
+
+  <!-- LINEAIR -->
+  <rect x="18" y="58" width="322" height="316" rx="8" fill="#F3EFE8" stroke="#B0A49A" stroke-width="1" stroke-dasharray="5 4"/>
+  <text class="t kop" x="38" y="86">Lineair &#8212; nemen, maken, weggooien</text>
+
+  <rect x="38" y="106" width="122" height="44" rx="5" fill="#FFFFFF" stroke="#7A6E66" stroke-width="1.5"/>
+  <text class="t stp" x="99" y="133" text-anchor="middle">Grondstof winnen</text>
+  <line x1="99" y1="150" x2="99" y2="172" stroke="#7A6E66" stroke-width="2" marker-end="url(#pl)"/>
+
+  <rect x="38" y="176" width="122" height="44" rx="5" fill="#FFFFFF" stroke="#7A6E66" stroke-width="1.5"/>
+  <text class="t stp" x="99" y="203" text-anchor="middle">Produceren</text>
+  <line x1="99" y1="220" x2="99" y2="242" stroke="#7A6E66" stroke-width="2" marker-end="url(#pl)"/>
+
+  <rect x="38" y="246" width="122" height="44" rx="5" fill="#FFFFFF" stroke="#7A6E66" stroke-width="1.5"/>
+  <text class="t stp" x="99" y="273" text-anchor="middle">Gebruiken</text>
+  <line x1="99" y1="290" x2="99" y2="312" stroke="#7A6E66" stroke-width="2" marker-end="url(#pl)"/>
+
+  <rect x="38" y="316" width="122" height="42" rx="5" fill="#7A6E66" stroke="#57504A" stroke-width="1.5"/>
+  <text class="t" x="99" y="342" text-anchor="middle" font-size="12.5" font-weight="700" fill="#FFFFFF">Afval</text>
+
+  <text class="t sub" x="178" y="130">Bij elke stap</text>
+  <text class="t sub" x="178" y="147">verdwijnt waarde,</text>
+  <text class="t sub" x="178" y="164">en aan het eind</text>
+  <text class="t sub" x="178" y="181">is die weg.</text>
+  <text class="t sub" x="178" y="212">Het model is</text>
+  <text class="t sub" x="178" y="229">afhankelijk van</text>
+  <text class="t sub" x="178" y="246">eindige voorraad</text>
+  <text class="t sub" x="178" y="263">en van ketens die</text>
+  <text class="t sub" x="178" y="280">kunnen haperen.</text>
+
+  <!-- CIRCULAIR -->
+  <rect x="358" y="58" width="322" height="316" rx="8" fill="#EFF4EE" stroke="#5C7A5A" stroke-width="2"/>
+  <text class="t kop" x="378" y="86">Circulair &#8212; waarde in de kring houden</text>
+
+  <circle cx="519" cy="228" r="98" fill="none" stroke="#5C7A5A" stroke-width="2.5" stroke-dasharray="1 0"/>
+
+  <rect x="466" y="112" width="106" height="34" rx="5" fill="#FFFFFF" stroke="#3D5C3B" stroke-width="1.5"/>
+  <text class="t stp" x="519" y="134" text-anchor="middle">Ontwerpen</text>
+
+  <rect x="592" y="196" width="88" height="34" rx="5" fill="#FFFFFF" stroke="#3D5C3B" stroke-width="1.5"/>
+  <text class="t stp" x="636" y="218" text-anchor="middle">Gebruiken</text>
+
+  <rect x="466" y="310" width="106" height="34" rx="5" fill="#FFFFFF" stroke="#3D5C3B" stroke-width="1.5"/>
+  <text class="t stp" x="519" y="332" text-anchor="middle">Terugnemen</text>
+
+  <rect x="360" y="196" width="88" height="34" rx="5" fill="#FFFFFF" stroke="#3D5C3B" stroke-width="1.5"/>
+  <text class="t stp" x="404" y="218" text-anchor="middle">Herstellen</text>
+
+  <path d="M 575.2 147.7 A 98 98 0 0 1 612.2 197.7" fill="none" stroke="#3D5C3B" stroke-width="2.5" marker-end="url(#pg)"/>
+  <path d="M 612.2 258.3 A 98 98 0 0 1 575.2 308.3" fill="none" stroke="#3D5C3B" stroke-width="2.5" marker-end="url(#pg)"/>
+  <path d="M 462.8 308.3 A 98 98 0 0 1 425.8 258.3" fill="none" stroke="#3D5C3B" stroke-width="2.5" marker-end="url(#pg)"/>
+  <path d="M 425.8 197.7 A 98 98 0 0 1 462.8 147.7" fill="none" stroke="#3D5C3B" stroke-width="2.5" marker-end="url(#pg)"/>
+
+  <text class="t stp" x="519" y="224" text-anchor="middle" fill="#3D5C3B">materialen</text>
+  <text class="t stp" x="519" y="242" text-anchor="middle" fill="#3D5C3B">blijven in omloop</text>
+
+  <line x1="519" y1="344" x2="519" y2="360" stroke="#B0A49A" stroke-width="2" stroke-dasharray="3 3"/>
+  <text class="t sub" x="530" y="364">kleine reststroom</text>
+
+  <text class="t cap" x="20" y="402">Circulair is een richting, geen garantie: een kring die meer energie kost dan hij bespaart, wint niets.</text>
+</svg>

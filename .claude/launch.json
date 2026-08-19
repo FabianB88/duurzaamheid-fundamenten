@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "duurzaamheid-fundamenten",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["http-server", "build", "-p", "9994", "-c-1"],
+      "port": 9994
+    }
+  ]
+}
